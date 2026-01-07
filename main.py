@@ -1,1 +1,2 @@
-print("CP.Jyotheswar Reddy")
+def reg(name):
+  print(f"{name} has been registered.")
